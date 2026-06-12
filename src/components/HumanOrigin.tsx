@@ -42,7 +42,7 @@ export default function HumanOrigin() {
     },
     {
       year: 'ACHIEVEMENTS',
-      role: 'EMERGING AI SOLUTIONS ENTIUSIAST',
+      role: 'EMERGING AI SOLUTIONS ENTHUSIAST',
       company: 'Academic Research & Design',
       description: 'Creating practical tools that elevate efficiency, reduce manual bottlenecks by 30%, and showcase modern UI/UX design capabilities.',
       accomplishments: [
